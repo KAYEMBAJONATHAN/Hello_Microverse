@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -16,19 +15,14 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello_Microverse <a name="about-project"></a>
-
-
 
 **Hello_Microverse**  all about learn here and understand the git&github well also to learn more about the pull,push,commit.
 
 ## 🛠 Built With HTML <a name="For Text"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
 
 <details>
   <summary>Client</summary>
@@ -37,30 +31,17 @@
   </ul>
 </details>
 
-
-
-
 ### Key Features <a name="key-features"></a>
-
- 
 
 - **feature_HOME-PAGE**
 
-
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
-
 To get a local copy up and running, follow these steps.
-
-
 
 ### Setup
 
 Clone this repository to your desired folder:
-
 
 ```sh
   cd my-folder
@@ -69,27 +50,13 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](git@github.com:KAYEMBAJONATHAN/Hello_Microverse.git)
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonathan-kayemba-b56247236/)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-
 - **About-page**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -99,29 +66,18 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## ⭐️ Show your support <a name="support"></a>
-
-
 
 If you like this project you can follow my github or star it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
 
 I would like to thank
 MICROVERSE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
